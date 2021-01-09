@@ -1,0 +1,25 @@
+*{
+    box-sizing: content-box;
+}
+body{
+    font-family: 'Baloo Chettan 2', cursive;
+    margin: 15px 30px;
+    font-size: 17px;
+    padding: 8px;
+}
+.container{
+    background-color: antiquewhite;
+    padding: 30px;
+     
+}
+#paynow{
+    border: none;
+    background-color: white;
+    padding: 5px;
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
+#paynow:hover{
+    background-color: pink;
+}
